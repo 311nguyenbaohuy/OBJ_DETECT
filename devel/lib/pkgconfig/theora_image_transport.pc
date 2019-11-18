@@ -1,0 +1,8 @@
+prefix=/home/huy/catkin_ws/devel
+
+Name: theora_image_transport
+Description: Description of theora_image_transport
+Version: 1.9.5
+Cflags: -I/home/huy/catkin_ws/devel/include -I/home/huy/catkin_ws/src/image_transport_plugins/theora_image_transport/include
+Libs: -L/home/huy/catkin_ws/devel/lib -ltheora_image_transport
+Requires: message_runtime std_msgs
